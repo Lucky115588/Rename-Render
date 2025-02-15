@@ -21,7 +21,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "LLS_RL")
 
 DB_NAME = os.environ.get("DB_NAME", "renamevjbot")     
 
-DB_URL = os.environ.get("DB_URL", "")
+DB_URL = os.environ.get("DB_URL", "https://luckysahu6005.blogspot.com/2025/02/redirecting-to-your-link-code-credit.html")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
